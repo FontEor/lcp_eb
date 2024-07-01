@@ -1,0 +1,156 @@
+
+.el-loading-mask {
+  z-index: 1999 !important;
+  &.is-fullscreen{
+    z-index: 2000 !important;
+  }
+}
+.para {
+    font-size: 13px;
+    color: #999999;
+    line-height: 22px;
+}
+.dlk-inline{
+    display:inline-block;
+}
+.mt40{
+    margin-top:40px;
+}
+.com-view-dep{
+    margin:0 20px 20px;
+    padding:12px 20px;
+    background:#fff;
+    border-radius: 4px;
+}
+
+.com-btn {
+    display: inline-block;
+    font-size: 14px;
+    padding: 0 20px;
+    color: #FFF;
+    height: 32px;
+    line-height: 32px;
+    background-color: #3c6ef0;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all .28s;
+    &:hover {
+        color: #fff;
+        background: #638bf3;
+    }
+}
+.com-tit-view{
+    position:relative;
+    .tit-wrap{
+        padding-left: 12px;
+        padding-right:20%;
+        background: #FFFFFF;
+        border-radius: 4px;
+        border-left: 4px solid #3C6EF0;
+    }
+    .tit{
+        font-size:16px;
+        line-height:24px;
+        font-weight: 600;
+        display: inline-block;
+        max-width: 80%;
+        word-break: break-all
+    }
+    .tip{
+        color:#666;
+        margin-top:10px;
+    }
+    .btn-wrap{
+        position:absolute;
+        right:20px;
+        bottom:16px;
+    }
+}
+.com-tag {
+    display: inline-block;
+    margin-left:8px;
+    padding: 0 12px;
+    height: 24px;
+    line-height: 24px;
+    color:#fff;
+    text-align: center;
+    background: #3c6ef0;
+    vertical-align: middle;
+    border-radius: 12px;
+    font-size: 14px;
+    &.wraning{
+        background: #f4821f;
+    }
+    &.success{
+        background: #26a872;
+    }
+    &.error{
+        background: #e1251b;
+    }
+}
+
+.erp-info-select{
+  .el-select-dropdown__item{
+    height:auto;
+  }
+}
+
+// 物流开放平台颜色码统一规范class
+.initColor{
+   color: $initColor;
+}
+
+.updateColor{
+   color: $updateColor;
+}
+
+.normalColor{
+    color: $normalColor;
+}
+
+.deadColor{
+    color: $deadColor;
+}
+
+.unknownColor{
+    color: $unknownColor;
+}
+//按钮背景色
+.initBtnColor{
+    background-color: rgba(60,110,240,0.1);
+    color:$initColor;
+ }
+ 
+ .updateBtnColor{
+    background-color: rgba(244,130,31,0.1);
+    color: $updateColor;
+ }
+ 
+ .normalBtnColor{
+    background-color: rgba(89,189,160,0.1);
+    color: $normalColor;
+ }
+ 
+ .deadBtnColor{
+    background-color: rgba(245,245,245,1);
+    color: $deadColor;
+ }
+ 
+ .unknownBtnColor{
+    background-color: rgba(225,37,27,0.1);
+    color: $unknownColor;
+ }
+  .tap-out-http-dia {
+  .step2-form-item_wrap {
+    .el-form-item__label {
+    //   font-weight: 600;
+    }
+  }
+  .el-dialog__footer {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .erp-principal {
+    width: 230px;
+  }
+}

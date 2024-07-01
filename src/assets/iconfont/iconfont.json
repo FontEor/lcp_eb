@@ -1,0 +1,16 @@
+{
+  "id": "1725358",
+  "name": "logistics-cloud",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11261655",
+      "name": "控制台",
+      "font_class": "kongzhitai",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640px" height="259px" viewBox="0 0 640 259" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>注意事项</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="4" y="4" width="136" height="88"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.8759502%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#3C6EF0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8.20767196,22.9814815 L19.967328,22.9814815 C24.5003001,22.9814815 28.175,26.6561814 28.175,31.1891534 L28.175,36.0873598 C28.175,37.9151272 26.6933018,39.3968254 24.8655344,39.3968254 L3.3094656,39.3968254 C1.48169822,39.3968254 1.47961793e-15,37.9151272 0,36.0873598 L0,31.1891534 C-5.55128972e-16,26.6561814 3.6746999,22.9814815 8.20767196,22.9814815 Z" id="path-4"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFE8D5" offset="0%"></stop>
+            <stop stop-color="#FFD8BB" offset="100%"></stop>
+        </linearGradient>
+        <path d="M3.3094656,0 L14.0289959,0 C15.8567633,-3.35755421e-16 17.3384615,1.48169822 17.3384615,3.3094656 L17.3384615,11.0291819 C17.3384615,15.8170659 13.4571147,19.6984127 8.66923077,19.6984127 C3.88134682,19.6984127 -1.19001016e-15,15.8170659 0,11.0291819 L0,3.3094656 C-2.23836947e-16,1.48169822 1.48169822,-1.08333789e-16 3.3094656,0 Z" id="path-6"></path>
+        <filter x="-12.4%" y="-129.5%" width="124.8%" height="358.9%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.4%" y="-129.5%" width="124.8%" height="358.9%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.4%" y="-129.5%" width="124.8%" height="358.9%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-29.0%" y="-129.5%" width="158.0%" height="358.9%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <path d="M8.20767196,22.9814815 L19.967328,22.9814815 C24.5003001,22.9814815 28.175,26.6561814 28.175,31.1891534 L28.175,36.0873598 C28.175,37.9151272 26.6933018,39.3968254 24.8655344,39.3968254 L3.3094656,39.3968254 C1.48169822,39.3968254 1.47961793e-15,37.9151272 0,36.0873598 L0,31.1891534 C-5.55128972e-16,26.6561814 3.6746999,22.9814815 8.20767196,22.9814815 Z" id="path-12"></path>
+        <filter x="-21.3%" y="-36.6%" width="142.6%" height="173.1%" filterUnits="objectBoundingBox" id="filter-13">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-69.2%" y="-49.8%" width="238.4%" height="199.7%" filterUnits="objectBoundingBox" id="filter-14">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-34.6%" y="-30.5%" width="169.2%" height="160.9%" filterUnits="objectBoundingBox" id="filter-15">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-86.7%" y="-172.3%" width="273.5%" height="444.6%" filterUnits="objectBoundingBox" id="filter-16">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-27.7%" y="-109.7%" width="155.4%" height="319.3%" filterUnits="objectBoundingBox" id="filter-17">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-34.6%" y="-91.4%" width="169.2%" height="282.8%" filterUnits="objectBoundingBox" id="filter-18">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <path d="M8.20767196,22.9814815 L19.967328,22.9814815 C24.5003001,22.9814815 28.175,26.6561814 28.175,31.1891534 L28.175,36.0873598 C28.175,37.9151272 26.6933018,39.3968254 24.8655344,39.3968254 L3.3094656,39.3968254 C1.48169822,39.3968254 1.47961793e-15,37.9151272 0,36.0873598 L0,31.1891534 C-5.55128972e-16,26.6561814 3.6746999,22.9814815 8.20767196,22.9814815 Z" id="path-19"></path>
+        <path d="M3.3094656,0 L14.0289959,0 C15.8567633,-3.35755421e-16 17.3384615,1.48169822 17.3384615,3.3094656 L17.3384615,11.0291819 C17.3384615,15.8170659 13.4571147,19.6984127 8.66923077,19.6984127 C3.88134682,19.6984127 -1.19001016e-15,15.8170659 0,11.0291819 L0,3.3094656 C-2.23836947e-16,1.48169822 1.48169822,-1.08333789e-16 3.3094656,0 Z" id="path-20"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.8759502%" id="linearGradient-22">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#929292" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8.20767196,22.9814815 L19.967328,22.9814815 C24.5003001,22.9814815 28.175,26.6561814 28.175,31.1891534 L28.175,36.0873598 C28.175,37.9151272 26.6933018,39.3968254 24.8655344,39.3968254 L3.3094656,39.3968254 C1.48169822,39.3968254 1.47961793e-15,37.9151272 0,36.0873598 L0,31.1891534 C-5.55128972e-16,26.6561814 3.6746999,22.9814815 8.20767196,22.9814815 Z" id="path-23"></path>
+        <path d="M3.3094656,0 L14.0289959,0 C15.8567633,-3.35755421e-16 17.3384615,1.48169822 17.3384615,3.3094656 L17.3384615,11.0291819 C17.3384615,15.8170659 13.4571147,19.6984127 8.66923077,19.6984127 C3.88134682,19.6984127 -1.19001016e-15,15.8170659 0,11.0291819 L0,3.3094656 C-2.23836947e-16,1.48169822 1.48169822,-1.08333789e-16 3.3094656,0 Z" id="path-24"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.8759502%" id="linearGradient-26">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#3C6EF0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.41666667,15.1666667 L13.2660559,15.1666667 C16.2575983,15.1666667 18.6827226,17.5917909 18.6827226,20.5833333 L18.6827226,22.6905344 C18.6827226,24.5183018 17.2010244,26 15.373257,26 L3.3094656,26 C1.48169822,26 2.23836947e-16,24.5183018 0,22.6905344 L0,20.5833333 C-3.66358282e-16,17.5917909 2.42512427,15.1666667 5.41666667,15.1666667 Z" id="path-27"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-28">
+            <stop stop-color="#FFE8D5" offset="0%"></stop>
+            <stop stop-color="#FFD8BB" offset="100%"></stop>
+        </linearGradient>
+        <path d="M3.3094656,0 L8.18759446,0 C10.0153618,1.08333789e-16 11.4970601,1.48169822 11.4970601,3.3094656 L11.4970601,7.25146997 C11.4970601,10.4262954 8.9233555,13 5.74853003,13 C2.57370456,13 3.88803985e-16,10.4262954 0,7.25146997 L0,3.3094656 C2.20252263e-16,1.48169822 1.48169822,7.79844631e-16 3.3094656,0 Z" id="path-29"></path>
+        <path d="M8.20767196,22.9814815 L19.967328,22.9814815 C24.5003001,22.9814815 28.175,26.6561814 28.175,31.1891534 L28.175,36.0873598 C28.175,37.9151272 26.6933018,39.3968254 24.8655344,39.3968254 L3.3094656,39.3968254 C1.48169822,39.3968254 1.47961793e-15,37.9151272 0,36.0873598 L0,31.1891534 C-5.55128972e-16,26.6561814 3.6746999,22.9814815 8.20767196,22.9814815 Z" id="path-31"></path>
+        <path d="M3.3094656,0 L14.0289959,0 C15.8567633,-3.35755421e-16 17.3384615,1.48169822 17.3384615,3.3094656 L17.3384615,11.0291819 C17.3384615,15.8170659 13.4571147,19.6984127 8.66923077,19.6984127 C3.88134682,19.6984127 -1.19001016e-15,15.8170659 0,11.0291819 L0,3.3094656 C-2.23836947e-16,1.48169822 1.48169822,-1.08333789e-16 3.3094656,0 Z" id="path-32"></path>
+        <linearGradient x1="50%" y1="28.9691665%" x2="50%" y2="100%" id="linearGradient-34">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="28.9691665%" x2="50%" y2="100%" id="linearGradient-35">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-36" x="0" y="0" width="33.35" height="38.8174603" rx="1.152"></rect>
+        <rect id="path-38" x="0" y="0" width="33.35" height="38.8174603" rx="1.152"></rect>
+    </defs>
+    <g id="2-个人中心-ISV资质认证" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="isv资质认证2" transform="translate(-514.000000, -1277.000000)">
+            <g id="编组-16" transform="translate(474.000000, 1064.000000)">
+                <g id="注意事项" transform="translate(40.000000, 213.000000)">
+                    <rect id="Rectangle-4-Copy-7复制-2" stroke="#D9D9D9" fill="#FFFFFF" x="0.5" y="0.5" width="143" height="95" rx="4"></rect>
+                    <text id="证件未摆正" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="20" fill="#666666">
+                        <tspan x="37" y="257">证件未摆正</tspan>
+                    </text>
+                    <text id="正确" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="20" fill="#666666">
+                        <tspan x="58" y="121">正确</tspan>
+                    </text>
+                    <text id="图片不清晰" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="20" fill="#666666">
+                        <tspan x="207" y="257">图片不清晰</tspan>
+                    </text>
+                    <text id="正确" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="20" fill="#666666">
+                        <tspan x="223" y="121">正确</tspan>
+                    </text>
+                    <text id="信息不完整" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="20" fill="#666666">
+                        <tspan x="364" y="257">信息不完整</tspan>
+                    </text>
+                    <text id="正确" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="20" fill="#666666">
+                        <tspan x="389" y="121">正确</tspan>
+                    </text>
+                    <text id="图片反光" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="20" fill="#666666">
+                        <tspan x="540" y="257">图片反光</tspan>
+                    </text>
+                    <text id="正确" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="20" fill="#666666">
+                        <tspan x="554" y="121">正确</tspan>
+                    </text>
+                    <rect id="Rectangle-4-Copy-7复制-6" stroke="#D9D9D9" fill="#FFFFFF" x="331.5" y="0.5" width="143" height="95"></rect>
+                    <path d="M143.5,136.5 L0.5,136.5 L0.5,231.5 L140,231.5 C140.966498,231.5 141.841498,231.108249 142.474874,230.474874 C143.108249,229.841498 143.5,228.966498 143.5,228 L143.5,136.5 Z" id="Rectangle-4-Copy-7复制-4" stroke="#D9D9D9" fill="#FFFFFF"></path>
+                    <g id="编组-3" transform="translate(331.000000, 136.000000)">
+                        <path d="M143.5,0.5 L0.5,0.5 L0.5,95.5 L140,95.5 C140.966498,95.5 141.841498,95.1082492 142.474874,94.4748737 C143.108249,93.8414983 143.5,92.9664983 143.5,92 L143.5,0.5 Z" id="Rectangle-4-Copy-7复制-7" stroke="#D9D9D9" fill="#FFFFFF"></path>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Rectangle-4-Copy-7复制-7" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <g id="编组-3复制-6" mask="url(#mask-2)">
+                            <g transform="translate(54.000000, 12.000000)">
+                                <rect id="矩形" stroke="#D9D9D9" fill="#FAFAFA" x="0.5" y="0.5" width="114" height="72" rx="2.304"></rect>
+                                <g id="分组-4" opacity="0.5" stroke="none" fill="none" transform="translate(9.775000, 16.801587)">
+                                    <g id="分组-3">
+                                        <g id="分组-2" fill="#B5B5B5" fill-rule="nonzero">
+                                            <rect id="矩形" x="0" y="0" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                            <rect id="矩形-copy" x="0" y="11.0079365" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                            <rect id="矩形-copy-2" x="0" y="22.015873" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                            <rect id="矩形-copy-3" x="0" y="33.0238095" width="20.7" height="4.63492063" rx="1.152"></rect>
+                                        </g>
+                                        <g id="编组-2" transform="translate(65.550000, 0.000000)">
+                                            <g id="矩形">
+                                                <use fill="#3C6EF0" xlink:href="#path-4"></use>
+                                                <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                                            </g>
+                                            <rect id="矩形复制-3" fill="#EEC1A2" x="9.75288462" y="14.2266314" width="8.66923077" height="12.0379189" rx="4.33461538"></rect>
+                                            <g id="编组" transform="translate(5.418269, 3.283069)">
+                                                <mask id="mask-7" fill="white">
+                                                    <use xlink:href="#path-6"></use>
+                                                </mask>
+                                                <use id="矩形" fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                                                <path d="M4.69583333,11.8190476 C4.69583333,13.9948742 6.44783016,15.7587302 8.60902778,15.7587302 L8.60902778,15.7587302 C10.7702254,15.7587302 12.5222222,13.9948742 12.5222222,11.8190476" id="路径" stroke="#EEC1A2" stroke-width="1.575936" stroke-linecap="round" mask="url(#mask-7)"></path>
+                                                <path d="M-1.08365385,6.56613757 C1.31028813,6.56613757 3.11637787,4.01263962 4.33461538,-1.09435626 C3.11637787,-5.47178131 1.31028813,-7.66049383 -1.08365385,-7.66049383 C-4.67456681,-7.66049383 -7.58557692,-4.7207339 -7.58557692,-1.09435626 C-7.58557692,2.53202138 -4.67456681,6.56613757 -1.08365385,6.56613757 Z" id="椭圆形" fill="#656273" mask="url(#mask-7)"></path>
+                                                <path d="M18.4221154,6.56613757 C22.0130283,6.56613757 24.9240385,2.53202138 24.9240385,-1.09435626 C24.9240385,-4.7207339 22.0130283,-7.66049383 18.4221154,-7.66049383 C16.0281734,-7.66049383 14.2220837,-5.47178131 13.0038462,-1.09435626 C14.2220837,4.01263962 16.0281734,6.56613757 18.4221154,6.56613757 Z" id="椭圆形复制" fill="#656273" mask="url(#mask-7)"></path>
+                                            </g>
+                                            <path d="M22.7567308,9.84920635 C23.9537018,9.84920635 24.9240385,10.8195431 24.9240385,12.016514 L24.9240385,13.15368 C24.9240385,14.3506509 23.9537018,15.3209877 22.7567308,15.3209877 L22.7567308,15.3209877 L22.7567308,15.3209877 L22.7567308,9.84920635 Z" id="矩形" fill="#EEC1A2"></path>
+                                            <path d="M3.25096154,9.84920635 C4.44793253,9.84920635 5.41826923,10.8195431 5.41826923,12.016514 L5.41826923,13.15368 C5.41826923,14.3506509 4.44793253,15.3209877 3.25096154,15.3209877 L3.25096154,15.3209877 L3.25096154,15.3209877 L3.25096154,9.84920635 Z" id="矩形复制-6" fill="#FFD1B1" transform="translate(4.334615, 12.585097) scale(-1, 1) translate(-4.334615, -12.585097) "></path>
+                                            <path d="M7.62457963,0 L20.5504204,0 C21.768932,-2.23836947e-16 22.7567308,0.987798813 22.7567308,2.2063104 L22.7567308,6.56613757 L22.7567308,6.56613757 L5.41826923,6.56613757 L5.41826923,2.2063104 C5.41826923,0.987798813 6.40606804,-2.20252263e-16 7.62457963,0 Z" id="矩形" fill="#656273"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-4-Copy-7复制-3" stroke="#D9D9D9" fill="#FFFFFF" x="165.5" y="0.5" width="143" height="95"></rect>
+                    <rect id="Rectangle-4-Copy-7复制-8" stroke="#D9D9D9" fill="#FFFFFF" x="496.5" y="0.5" width="143" height="95"></rect>
+                    <path d="M308.5,136.5 L165.5,136.5 L165.5,231.5 L305,231.5 C305.966498,231.5 306.841498,231.108249 307.474874,230.474874 C308.108249,229.841498 308.5,228.966498 308.5,228 L308.5,136.5 Z" id="Rectangle-4-Copy-7复制-5" stroke="#D9D9D9" fill="#FFFFFF"></path>
+                    <g id="编组-3复制-7" transform="translate(180.000000, 148.000000)">
+                        <rect id="矩形" stroke="#D9D9D9" fill="#FAFAFA" x="0.5" y="0.5" width="114" height="72" rx="2.304"></rect>
+                        <g id="分组-4" opacity="0.5" transform="translate(9.775000, 16.801587)">
+                            <g id="分组-3">
+                                <g id="分组-2" fill="#B5B5B5" fill-rule="nonzero">
+                                    <rect id="矩形" filter="url(#filter-8)" x="0" y="0" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy" filter="url(#filter-9)" x="0" y="11.0079365" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy-2" filter="url(#filter-10)" x="0" y="22.015873" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy-3" filter="url(#filter-11)" x="0" y="33.0238095" width="20.7" height="4.63492063" rx="1.152"></rect>
+                                </g>
+                                <g id="编组-2" transform="translate(65.550000, 0.000000)">
+                                    <g id="矩形" filter="url(#filter-13)">
+                                        <use fill="#3C6EF0" xlink:href="#path-12"></use>
+                                        <use fill="url(#linearGradient-3)" xlink:href="#path-12"></use>
+                                    </g>
+                                    <rect id="矩形复制-3" fill="#EEC1A2" filter="url(#filter-14)" x="9.75288462" y="14.2266314" width="8.66923077" height="12.0379189" rx="4.33461538"></rect>
+                                    <g id="编组" transform="translate(5.418269, 3.283069)">
+                                        <path d="M3.3094656,0 L14.0289959,0 C15.8567633,-3.35755421e-16 17.3384615,1.48169822 17.3384615,3.3094656 L17.3384615,11.0291819 C17.3384615,15.8170659 13.4571147,19.6984127 8.66923077,19.6984127 C3.88134682,19.6984127 -1.19001016e-15,15.8170659 0,11.0291819 L0,3.3094656 C-2.23836947e-16,1.48169822 1.48169822,-1.08333789e-16 3.3094656,0 Z" id="矩形" fill="url(#linearGradient-5)" filter="url(#filter-15)"></path>
+                                        <path d="M4.69583333,11.8190476 C4.69583333,13.9948742 6.44783016,15.7587302 8.60902778,15.7587302 L8.60902778,15.7587302 C10.7702254,15.7587302 12.5222222,13.9948742 12.5222222,11.8190476" id="路径" stroke="#EEC1A2" stroke-width="1.575936" stroke-linecap="round" filter="url(#filter-16)"></path>
+                                    </g>
+                                    <path d="M22.7567308,9.84920635 C23.9537018,9.84920635 24.9240385,10.8195431 24.9240385,12.016514 L24.9240385,13.15368 C24.9240385,14.2986087 24.0362446,15.2361821 22.911511,15.3155459 L22.7567308,15.3209877 L22.7567308,9.84920635 Z M5.41826923,9.84920635 L5.41826923,15.3209877 L5.26348897,15.3155459 C4.13875542,15.2361821 3.25096154,14.2986087 3.25096154,13.15368 L3.25096154,13.15368 L3.25096154,12.016514 C3.25096154,10.8195431 4.22129824,9.84920635 5.41826923,9.84920635 L5.41826923,9.84920635 Z" id="形状结合" fill="#EEC1A2" filter="url(#filter-17)"></path>
+                                    <path d="M7.62457963,0 L20.5504204,0 C21.768932,-2.23836947e-16 22.7567308,0.987798813 22.7567308,2.2063104 L22.7567308,6.56613757 L22.7567308,6.56613757 L5.41826923,6.56613757 L5.41826923,2.2063104 C5.41826923,0.987798813 6.40606804,-2.20252263e-16 7.62457963,0 Z" id="矩形" fill="#656273" filter="url(#filter-18)"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M639.5,136.5 L496.5,136.5 L496.5,231.5 L636,231.5 C636.966498,231.5 637.841498,231.108249 638.474874,230.474874 C639.108249,229.841498 639.5,228.966498 639.5,228 L639.5,136.5 Z" id="Rectangle-4-Copy-7复制-9" stroke="#D9D9D9" fill="#FFFFFF"></path>
+                    <g id="编组-3复制" transform="translate(15.000000, 12.000000)">
+                        <rect id="矩形" stroke="#D9D9D9" fill="#FAFAFA" x="0.5" y="0.5" width="114" height="72" rx="2.304"></rect>
+                        <g id="分组-4" opacity="0.5" transform="translate(9.775000, 16.801587)">
+                            <g id="分组-3">
+                                <g id="分组-2" fill="#B5B5B5" fill-rule="nonzero">
+                                    <rect id="矩形" x="0" y="0" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy" x="0" y="11.0079365" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy-2" x="0" y="22.015873" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy-3" x="0" y="33.0238095" width="20.7" height="4.63492063" rx="1.152"></rect>
+                                </g>
+                                <g id="编组-2" transform="translate(65.550000, 0.000000)">
+                                    <g id="矩形">
+                                        <use fill="#3C6EF0" xlink:href="#path-19"></use>
+                                        <use fill="url(#linearGradient-3)" xlink:href="#path-19"></use>
+                                    </g>
+                                    <rect id="矩形复制-3" fill="#EEC1A2" x="9.75288462" y="14.2266314" width="8.66923077" height="12.0379189" rx="4.33461538"></rect>
+                                    <g id="编组" transform="translate(5.418269, 3.283069)">
+                                        <mask id="mask-21" fill="white">
+                                            <use xlink:href="#path-20"></use>
+                                        </mask>
+                                        <use id="矩形" fill="url(#linearGradient-5)" xlink:href="#path-20"></use>
+                                        <path d="M4.69583333,11.8190476 C4.69583333,13.9948742 6.44783016,15.7587302 8.60902778,15.7587302 L8.60902778,15.7587302 C10.7702254,15.7587302 12.5222222,13.9948742 12.5222222,11.8190476" id="路径" stroke="#EEC1A2" stroke-width="1.575936" stroke-linecap="round" mask="url(#mask-21)"></path>
+                                        <path d="M-1.08365385,6.56613757 C1.31028813,6.56613757 3.11637787,4.01263962 4.33461538,-1.09435626 C3.11637787,-5.47178131 1.31028813,-7.66049383 -1.08365385,-7.66049383 C-4.67456681,-7.66049383 -7.58557692,-4.7207339 -7.58557692,-1.09435626 C-7.58557692,2.53202138 -4.67456681,6.56613757 -1.08365385,6.56613757 Z" id="椭圆形" fill="#656273" mask="url(#mask-21)"></path>
+                                        <path d="M18.4221154,6.56613757 C22.0130283,6.56613757 24.9240385,2.53202138 24.9240385,-1.09435626 C24.9240385,-4.7207339 22.0130283,-7.66049383 18.4221154,-7.66049383 C16.0281734,-7.66049383 14.2220837,-5.47178131 13.0038462,-1.09435626 C14.2220837,4.01263962 16.0281734,6.56613757 18.4221154,6.56613757 Z" id="椭圆形复制" fill="#656273" mask="url(#mask-21)"></path>
+                                    </g>
+                                    <path d="M22.7567308,9.84920635 C23.9537018,9.84920635 24.9240385,10.8195431 24.9240385,12.016514 L24.9240385,13.15368 C24.9240385,14.3506509 23.9537018,15.3209877 22.7567308,15.3209877 L22.7567308,15.3209877 L22.7567308,15.3209877 L22.7567308,9.84920635 Z" id="矩形" fill="#EEC1A2"></path>
+                                    <path d="M3.25096154,9.84920635 C4.44793253,9.84920635 5.41826923,10.8195431 5.41826923,12.016514 L5.41826923,13.15368 C5.41826923,14.3506509 4.44793253,15.3209877 3.25096154,15.3209877 L3.25096154,15.3209877 L3.25096154,15.3209877 L3.25096154,9.84920635 Z" id="矩形复制-6" fill="#FFD1B1" transform="translate(4.334615, 12.585097) scale(-1, 1) translate(-4.334615, -12.585097) "></path>
+                                    <path d="M7.62457963,0 L20.5504204,0 C21.768932,-2.23836947e-16 22.7567308,0.987798813 22.7567308,2.2063104 L22.7567308,6.56613757 L22.7567308,6.56613757 L5.41826923,6.56613757 L5.41826923,2.2063104 C5.41826923,0.987798813 6.40606804,-2.20252263e-16 7.62457963,0 Z" id="矩形" fill="#656273"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="编组-3复制-5" transform="translate(346.000000, 12.000000)">
+                        <rect id="矩形" stroke="#D9D9D9" fill="#FAFAFA" x="0.5" y="0.5" width="114" height="72" rx="2.304"></rect>
+                        <g id="分组-4" opacity="0.5" transform="translate(9.775000, 16.801587)">
+                            <g id="分组-3">
+                                <g id="分组-2" fill="#B5B5B5" fill-rule="nonzero">
+                                    <rect id="矩形" x="0" y="0" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy" x="0" y="11.0079365" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy-2" x="0" y="22.015873" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy-3" x="0" y="33.0238095" width="20.7" height="4.63492063" rx="1.152"></rect>
+                                </g>
+                                <g id="编组-2" transform="translate(65.550000, 0.000000)">
+                                    <g id="矩形">
+                                        <use fill="#BFBFBF" xlink:href="#path-23"></use>
+                                        <use fill="url(#linearGradient-22)" xlink:href="#path-23"></use>
+                                    </g>
+                                    <rect id="矩形复制-3" fill="#B5B5B5" x="9.75288462" y="14.2266314" width="8.66923077" height="12.0379189" rx="4.33461538"></rect>
+                                    <g id="编组" transform="translate(5.418269, 3.283069)">
+                                        <mask id="mask-25" fill="white">
+                                            <use xlink:href="#path-24"></use>
+                                        </mask>
+                                        <use id="矩形" fill="#DEDEDE" xlink:href="#path-24"></use>
+                                        <path d="M4.69583333,11.8190476 C4.69583333,13.9948742 6.44783016,15.7587302 8.60902778,15.7587302 L8.60902778,15.7587302 C10.7702254,15.7587302 12.5222222,13.9948742 12.5222222,11.8190476" id="路径" stroke="#FFFFFF" stroke-width="1.575936" stroke-linecap="round" mask="url(#mask-25)"></path>
+                                        <path d="M-1.08365385,6.56613757 C1.31028813,6.56613757 3.11637787,4.01263962 4.33461538,-1.09435626 C3.11637787,-5.47178131 1.31028813,-7.66049383 -1.08365385,-7.66049383 C-4.67456681,-7.66049383 -7.58557692,-4.7207339 -7.58557692,-1.09435626 C-7.58557692,2.53202138 -4.67456681,6.56613757 -1.08365385,6.56613757 Z" id="椭圆形" fill="#656273" mask="url(#mask-25)"></path>
+                                        <path d="M18.4221154,6.56613757 C22.0130283,6.56613757 24.9240385,2.53202138 24.9240385,-1.09435626 C24.9240385,-4.7207339 22.0130283,-7.66049383 18.4221154,-7.66049383 C16.0281734,-7.66049383 14.2220837,-5.47178131 13.0038462,-1.09435626 C14.2220837,4.01263962 16.0281734,6.56613757 18.4221154,6.56613757 Z" id="椭圆形复制" fill="#656273" mask="url(#mask-25)"></path>
+                                    </g>
+                                    <path d="M22.7567308,9.84920635 C23.9537018,9.84920635 24.9240385,10.8195431 24.9240385,12.016514 L24.9240385,13.15368 C24.9240385,14.3506509 23.9537018,15.3209877 22.7567308,15.3209877 L22.7567308,15.3209877 L22.7567308,15.3209877 L22.7567308,9.84920635 Z" id="矩形" fill="#B5B5B5"></path>
+                                    <path d="M3.25096154,9.84920635 C4.44793253,9.84920635 5.41826923,10.8195431 5.41826923,12.016514 L5.41826923,13.15368 C5.41826923,14.3506509 4.44793253,15.3209877 3.25096154,15.3209877 L3.25096154,15.3209877 L3.25096154,15.3209877 L3.25096154,9.84920635 Z" id="矩形复制-6" fill="#B5B5B5" transform="translate(4.334615, 12.585097) scale(-1, 1) translate(-4.334615, -12.585097) "></path>
+                                    <path d="M7.62457963,0 L20.5504204,0 C21.768932,-2.23836947e-16 22.7567308,0.987798813 22.7567308,2.2063104 L22.7567308,6.56613757 L22.7567308,6.56613757 L5.41826923,6.56613757 L5.41826923,2.2063104 C5.41826923,0.987798813 6.40606804,-2.20252263e-16 7.62457963,0 Z" id="矩形" fill="#656273"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="编组-4" transform="translate(376.000000, 20.000000)">
+                        <circle id="椭圆形" stroke="#E1251B" stroke-width="2" cx="28" cy="28" r="28"></circle>
+                        <text id="X" transform="translate(7.292893, 29.500000) rotate(90.000000) translate(-7.292893, -29.500000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="3.79289322" y="33.5">X</tspan>
+                        </text>
+                        <text id="X复制" transform="translate(10.500000, 39.000000) rotate(-124.000000) translate(-10.500000, -39.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="7" y="43">X</tspan>
+                        </text>
+                        <text id="有" transform="translate(10.000000, 18.000000) rotate(-45.000000) translate(-10.000000, -18.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="5" y="22">有</tspan>
+                        </text>
+                        <text id="限" transform="translate(21.000000, 9.000000) rotate(-20.000000) translate(-21.000000, -9.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="16" y="13">限</tspan>
+                        </text>
+                        <text id="责" transform="translate(34.000000, 9.000000) rotate(20.000000) translate(-34.000000, -9.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="29" y="13">责</tspan>
+                        </text>
+                        <text id="任" transform="translate(45.000000, 16.000000) rotate(45.000000) translate(-45.000000, -16.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="40" y="20">任</tspan>
+                        </text>
+                        <text id="公" transform="translate(48.292893, 29.000000) rotate(90.000000) translate(-48.292893, -29.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="43.2928932" y="33">公</tspan>
+                        </text>
+                        <text id="司" transform="translate(45.000000, 40.000000) rotate(115.000000) translate(-45.000000, -40.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="40" y="44">司</tspan>
+                        </text>
+                        <polygon id="星形" fill="#E1251B" points="28 32.5 22.7099327 35.2811529 23.7202457 29.3905765 19.4404914 25.2188471 25.3549664 24.3594235 28 19 30.6450336 24.3594235 36.5595086 25.2188471 32.2797543 29.3905765 33.2900673 35.2811529"></polygon>
+                    </g>
+                    <g id="编组-3复制-2" transform="translate(71.591978, 184.467622) rotate(-30.000000) translate(-71.591978, -184.467622) translate(33.091978, 159.967622)">
+                        <rect id="矩形" stroke="#D9D9D9" fill="#FAFAFA" x="1.34349947" y="0.934174106" width="75" height="47" rx="2.304"></rect>
+                        <g id="分组-4" opacity="0.5" transform="translate(6.910487, 11.184174)">
+                            <g id="分组-3">
+                                <g id="分组-2" fill="#B5B5B5" fill-rule="nonzero">
+                                    <rect id="矩形" x="0" y="0" width="32.0275245" height="3.05882353" rx="1.152"></rect>
+                                    <rect id="矩形-copy" x="0" y="7.26470588" width="32.0275245" height="3.05882353" rx="1.152"></rect>
+                                    <rect id="矩形-copy-2" x="0" y="14.5294118" width="32.0275245" height="3.05882353" rx="1.152"></rect>
+                                    <rect id="矩形-copy-3" x="0" y="21.7941176" width="13.7260819" height="3.05882353" rx="1.152"></rect>
+                                </g>
+                                <g id="编组-2" transform="translate(43.465926, 0.000000)">
+                                    <g id="矩形">
+                                        <use fill="#3C6EF0" xlink:href="#path-27"></use>
+                                        <use fill="url(#linearGradient-26)" xlink:href="#path-27"></use>
+                                    </g>
+                                    <rect id="矩形复制-3" fill="#EEC1A2" x="6.46709628" y="9.38888889" width="5.74853003" height="7.94444444" rx="2.87426502"></rect>
+                                    <g id="编组" transform="translate(3.592831, 2.166667)">
+                                        <mask id="mask-30" fill="white">
+                                            <use xlink:href="#path-29"></use>
+                                        </mask>
+                                        <use id="矩形" fill="url(#linearGradient-28)" xlink:href="#path-29"></use>
+                                        <path d="M3.1137871,7.8 C3.1137871,9.23594035 4.27552874,10.4 5.70860968,10.4 L5.70860968,10.4 C7.14169062,10.4 8.30343227,9.23594035 8.30343227,7.8" id="路径" stroke="#EEC1A2" stroke-width="1.575936" stroke-linecap="round" mask="url(#mask-30)"></path>
+                                        <path d="M-0.718566254,4.33333333 C0.868846481,4.33333333 2.0664569,2.64814815 2.87426502,-0.722222222 C2.0664569,-3.61111111 0.868846481,-5.05555556 -0.718566254,-5.05555556 C-3.09968536,-5.05555556 -5.02996378,-3.11545614 -5.02996378,-0.722222222 C-5.02996378,1.67101169 -3.09968536,4.33333333 -0.718566254,4.33333333 Z" id="椭圆形" fill="#656273" mask="url(#mask-30)"></path>
+                                        <path d="M12.2156263,4.33333333 C14.5967454,4.33333333 16.5270238,1.67101169 16.5270238,-0.722222222 C16.5270238,-3.11545614 14.5967454,-5.05555556 12.2156263,-5.05555556 C10.6282136,-5.05555556 9.43060316,-3.61111111 8.62279505,-0.722222222 C9.43060316,2.64814815 10.6282136,4.33333333 12.2156263,4.33333333 Z" id="椭圆形复制" fill="#656273" mask="url(#mask-30)"></path>
+                                    </g>
+                                    <path d="M15.0898913,6.5 C15.8835977,6.5 16.5270238,7.14342614 16.5270238,7.93713251 L16.5270238,8.6739786 C16.5270238,9.46768497 15.8835977,10.1111111 15.0898913,10.1111111 L15.0898913,10.1111111 L15.0898913,10.1111111 L15.0898913,6.5 Z" id="矩形" fill="#EEC1A2"></path>
+                                    <path d="M2.15569876,6.5 C2.94940513,6.5 3.59283127,7.14342614 3.59283127,7.93713251 L3.59283127,8.6739786 C3.59283127,9.46768497 2.94940513,10.1111111 2.15569876,10.1111111 L2.15569876,10.1111111 L2.15569876,10.1111111 L2.15569876,6.5 Z" id="矩形复制-6" fill="#FFD1B1" transform="translate(2.874265, 8.305556) scale(-1, 1) translate(-2.874265, -8.305556) "></path>
+                                    <path d="M5.79914167,0 L12.8835809,0 C14.1020925,-2.23836947e-16 15.0898913,0.987798813 15.0898913,2.2063104 L15.0898913,4.33333333 L15.0898913,4.33333333 L3.59283127,4.33333333 L3.59283127,2.2063104 C3.59283127,0.987798813 4.58063008,2.23836947e-16 5.79914167,0 Z" id="矩形" fill="#656273"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="编组-3复制-7" transform="translate(511.000000, 148.000000)">
+                        <rect id="矩形" stroke="#D9D9D9" fill="#FAFAFA" x="0.5" y="0.5" width="114" height="72" rx="2.304"></rect>
+                        <g id="分组-4" opacity="0.5" transform="translate(9.775000, 16.801587)">
+                            <g id="分组-3">
+                                <g id="分组-2" fill="#B5B5B5" fill-rule="nonzero">
+                                    <rect id="矩形" x="0" y="0" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy" x="0" y="11.0079365" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy-2" x="0" y="22.015873" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy-3" x="0" y="33.0238095" width="20.7" height="4.63492063" rx="1.152"></rect>
+                                </g>
+                                <g id="编组-2" transform="translate(65.550000, 0.000000)">
+                                    <g id="矩形">
+                                        <use fill="#3C6EF0" xlink:href="#path-31"></use>
+                                        <use fill="url(#linearGradient-3)" xlink:href="#path-31"></use>
+                                    </g>
+                                    <rect id="矩形复制-3" fill="#EEC1A2" x="9.75288462" y="14.2266314" width="8.66923077" height="12.0379189" rx="4.33461538"></rect>
+                                    <g id="编组" transform="translate(5.418269, 3.283069)">
+                                        <mask id="mask-33" fill="white">
+                                            <use xlink:href="#path-32"></use>
+                                        </mask>
+                                        <use id="矩形" fill="url(#linearGradient-5)" xlink:href="#path-32"></use>
+                                        <path d="M4.69583333,11.8190476 C4.69583333,13.9948742 6.44783016,15.7587302 8.60902778,15.7587302 L8.60902778,15.7587302 C10.7702254,15.7587302 12.5222222,13.9948742 12.5222222,11.8190476" id="路径" stroke="#EEC1A2" stroke-width="1.575936" stroke-linecap="round" mask="url(#mask-33)"></path>
+                                        <path d="M-1.08365385,6.56613757 C1.31028813,6.56613757 3.11637787,4.01263962 4.33461538,-1.09435626 C3.11637787,-5.47178131 1.31028813,-7.66049383 -1.08365385,-7.66049383 C-4.67456681,-7.66049383 -7.58557692,-4.7207339 -7.58557692,-1.09435626 C-7.58557692,2.53202138 -4.67456681,6.56613757 -1.08365385,6.56613757 Z" id="椭圆形" fill="#656273" mask="url(#mask-33)"></path>
+                                        <path d="M18.4221154,6.56613757 C22.0130283,6.56613757 24.9240385,2.53202138 24.9240385,-1.09435626 C24.9240385,-4.7207339 22.0130283,-7.66049383 18.4221154,-7.66049383 C16.0281734,-7.66049383 14.2220837,-5.47178131 13.0038462,-1.09435626 C14.2220837,4.01263962 16.0281734,6.56613757 18.4221154,6.56613757 Z" id="椭圆形复制" fill="#656273" mask="url(#mask-33)"></path>
+                                    </g>
+                                    <path d="M22.7567308,9.84920635 C23.9537018,9.84920635 24.9240385,10.8195431 24.9240385,12.016514 L24.9240385,13.15368 C24.9240385,14.3506509 23.9537018,15.3209877 22.7567308,15.3209877 L22.7567308,15.3209877 L22.7567308,15.3209877 L22.7567308,9.84920635 Z" id="矩形" fill="#EEC1A2"></path>
+                                    <path d="M3.25096154,9.84920635 C4.44793253,9.84920635 5.41826923,10.8195431 5.41826923,12.016514 L5.41826923,13.15368 C5.41826923,14.3506509 4.44793253,15.3209877 3.25096154,15.3209877 L3.25096154,15.3209877 L3.25096154,15.3209877 L3.25096154,9.84920635 Z" id="矩形复制-6" fill="#FFD1B1" transform="translate(4.334615, 12.585097) scale(-1, 1) translate(-4.334615, -12.585097) "></path>
+                                    <path d="M7.62457963,0 L20.5504204,0 C21.768932,-2.23836947e-16 22.7567308,0.987798813 22.7567308,2.2063104 L22.7567308,6.56613757 L22.7567308,6.56613757 L5.41826923,6.56613757 L5.41826923,2.2063104 C5.41826923,0.987798813 6.40606804,-2.20252263e-16 7.62457963,0 Z" id="矩形" fill="#656273"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <polygon id="矩形" fill="url(#linearGradient-34)" points="527 149 561.461538 149 591 220 556.538462 220"></polygon>
+                    <polygon id="矩形复制-2" fill="url(#linearGradient-35)" points="568 149 582.666667 149 612 220 597.333333 220"></polygon>
+                    <g id="编组-4复制" transform="translate(180.000000, 12.000000)">
+                        <rect id="矩形" stroke="#D9D9D9" fill="#FAFAFA" x="0.5" y="0.5" width="114" height="72" rx="2.304"></rect>
+                        <g id="分组-4" opacity="0.5" transform="translate(57.308333, 37.034799) scale(-1, 1) translate(-57.308333, -37.034799) translate(9.391667, 17.380952)">
+                            <g id="Bitmap" transform="translate(62.100000, 0.000000)">
+                                <mask id="mask-37" fill="white">
+                                    <use xlink:href="#path-36"></use>
+                                </mask>
+                                <use id="Mask" fill="#F2F2F2" fill-rule="nonzero" opacity="0.443498884" xlink:href="#path-36"></use>
+                            </g>
+                            <g id="分组-3" transform="translate(0.000000, 1.158730)">
+                                <g id="分组-2" fill="#B5B5B5" fill-rule="nonzero">
+                                    <rect id="矩形" x="0" y="0" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy" x="0" y="11.0079365" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy-2" x="0" y="22.015873" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy-3" x="0" y="33.0238095" width="20.7" height="4.63492063" rx="1.152"></rect>
+                                </g>
+                                <g id="编组" transform="translate(64.975000, 0.579365)">
+                                    <ellipse id="椭圆形" stroke="#D54241" stroke-width="2.88" fill="#EF979C" cx="14.375" cy="13.8539404" rx="12.36" ry="12.4139404"></ellipse>
+                                    <path d="M0,29.1579704 L3.22197264,19.4544695 C5.72221088,24.024318 9.43988667,26.3092423 14.375,26.3092423 C19.3101133,26.3092423 23.2213345,24.024318 26.1086635,19.4544695 L28.75,29.1579704 L27.0926332,29.1579704 L27.0926332,30.9360521 L25.120584,30.9360521 L25.120584,32.2665761 L22.8308824,32.2665761 L22.8308824,33.6031746 L18.6029412,33.6031746 L17.7573529,28.2689295 C16.0646506,28.2423489 14.9371996,27.8854667 14.375,27.1982831 C13.9891044,27.8544369 12.8616534,28.211319 10.9926471,28.2689295 L10.1470588,33.6031746 L5.61626286,33.6031746 L5.61626286,32.2665761 L3.58719113,32.2665761 L3.58719113,30.9360521 L1.99971984,30.9360521 L1.99971984,29.1579704 L0,29.1579704 Z" id="路径-3" fill="#EF979C"></path>
+                                    <path d="M16.6257735,17.1345619 C16.6579245,17.1593487 16.6798975,17.1950407 16.6875502,17.2349094 L16.7355457,17.4849529 C16.7498041,17.5592356 16.7785535,17.6299826 16.8201525,17.693155 L17.1448791,18.1862859 L17.9160964,18.8449016 C17.9644779,18.8862191 17.9702044,18.9589346 17.9288868,19.0073161 C17.9069998,19.0329451 17.8749872,19.047704 17.8412843,19.047704 L17.455,19.0475824 L17.455,19.7725824 L19.3772,19.7728219 C19.4726348,19.7728219 19.55,19.8501871 19.55,19.9456219 L19.55,21.0502576 C19.55,21.1456924 19.4726348,21.2230576 19.3772,21.2230576 L9.9478,21.2230576 C9.8523652,21.2230576 9.775,21.1456924 9.775,21.0502576 L9.775,19.9456219 C9.775,19.8501871 9.8523652,19.7728219 9.9478,19.7728219 L11.869,19.7725824 L11.869,19.0475824 L11.4875678,19.047704 C11.4239446,19.047704 11.3723678,18.9961272 11.3723678,18.932504 C11.3723678,18.8984821 11.3874064,18.8662 11.4134523,18.8443115 L12.1964593,18.1862859 L12.5118934,17.6861937 C12.5488982,17.6275259 12.5750021,17.5626567 12.588948,17.4947098 L12.6422712,17.2349094 C12.6608915,17.1441877 12.7495308,17.085738 12.8402524,17.1043583 C12.8801066,17.1125383 12.9156277,17.1349284 12.9401972,17.1673569 L13.2660714,17.5974683 L16.0589286,17.5974683 L16.3925505,17.1647265 C16.4486236,17.091994 16.553041,17.0784889 16.6257735,17.1345619 Z" id="形状结合" fill="#D54241"></path>
+                                    <polygon id="星形复制" fill="#D54241" transform="translate(8.550764, 10.817897) rotate(35.000000) translate(-8.550764, -10.817897) " points="8.56385971 11.8585733 7.50565303 12.5370267 7.78348787 11.2555925 6.82852621 10.3882206 8.07083331 10.2939948 8.53884122 9.07947616 9.02879439 10.3026756 10.2730008 10.4194336 9.33350146 11.2696383 9.63445543 12.5563174"></polygon>
+                                    <polygon id="星形复制-2" fill="#D54241" transform="translate(11.976609, 13.609272) rotate(-345.000000) translate(-11.976609, -13.609272) " points="11.9835773 14.6574534 10.9278507 15.3438742 11.2096321 14.0547669 10.2630744 13.1871003 11.4995435 13.0870734 11.9702653 11.8644051 12.4526639 13.0916923 13.6901436 13.2037084 12.7518132 14.0622406 13.045896 15.3541386"></polygon>
+                                    <polygon id="星形复制-3" fill="#D54241" transform="translate(17.457915, 13.609272) rotate(-15.000000) translate(-17.457915, -13.609272) " points="17.4509465 14.6574534 16.3886278 15.3541386 16.6827106 14.0622406 15.7443802 13.2037084 16.98186 13.0916923 17.4642585 11.8644051 17.9349803 13.0870734 19.1714494 13.1871003 18.2248917 14.0547669 18.5066731 15.3438742"></polygon>
+                                    <polygon id="星形" fill="#D54241" points="14.375 9.74197299 12.6851174 10.6944028 13.1445706 8.91707955 11.6407125 7.72839031 13.6145528 7.58237394 14.375 5.89529379 15.1354472 7.58237394 17.1092875 7.72839031 15.6054294 8.91707955 16.0648826 10.6944028"></polygon>
+                                    <polygon id="星形复制-4" fill="#D54241" transform="translate(20.199236, 10.120086) rotate(-35.000000) translate(-20.199236, -10.120086) " points="20.1861403 11.160763 19.1155446 11.8585071 19.4164985 10.571828 18.4769992 9.72162335 19.7212056 9.6048653 20.2111588 8.38166588 20.6791667 9.59618449 21.9214738 9.69041034 20.9665121 10.5577822 21.244347 11.8392164"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="编组-4复制-5" transform="translate(511.000000, 12.000000)">
+                        <rect id="矩形" stroke="#D9D9D9" fill="#FAFAFA" x="0.5" y="0.5" width="114" height="72" rx="2.304"></rect>
+                        <g id="分组-4" opacity="0.5" transform="translate(57.225000, 37.380952) scale(-1, 1) translate(-57.225000, -37.380952) translate(9.225000, 17.380952)">
+                            <g id="Bitmap" transform="translate(62.100000, 0.000000)">
+                                <mask id="mask-39" fill="white">
+                                    <use xlink:href="#path-38"></use>
+                                </mask>
+                                <use id="Mask" fill="#F2F2F2" fill-rule="nonzero" opacity="0.443498884" xlink:href="#path-38"></use>
+                            </g>
+                            <g id="分组-3" transform="translate(0.000000, 1.158730)">
+                                <g id="分组-2" fill="#B5B5B5" fill-rule="nonzero">
+                                    <rect id="矩形" x="0" y="0" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy" x="0" y="11.0079365" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy-2" x="0" y="22.015873" width="48.3" height="4.63492063" rx="1.152"></rect>
+                                    <rect id="矩形-copy-3" x="0" y="33.0238095" width="20.7" height="4.63492063" rx="1.152"></rect>
+                                </g>
+                                <g id="编组" transform="translate(64.975000, 0.579365)">
+                                    <ellipse id="椭圆形" stroke="#9E9E9E" stroke-width="2.88" fill="#E0E0E0" cx="14.375" cy="13.8539404" rx="12.36" ry="12.4139404"></ellipse>
+                                    <path d="M0,28.7035009 L3.22197264,19 C5.72221088,23.5698485 9.43988667,25.8547728 14.375,25.8547728 C19.3101133,25.8547728 23.2213345,23.5698485 26.1086635,19 L28.75,28.7035009 L27.0926332,28.7035009 L27.0926332,30.4815826 L25.120584,30.4815826 L25.120584,31.8121066 L22.8308824,31.8121066 L22.8308824,33.1487051 L18.6029412,33.1487051 L17.7573529,27.81446 C16.0646506,27.7878794 14.9371996,27.4309972 14.375,26.7438136 C13.9891044,27.3999674 12.8616534,27.7568495 10.9926471,27.81446 L10.1470588,33.1487051 L5.61626286,33.1487051 L5.61626286,31.8121066 L3.58719113,31.8121066 L3.58719113,30.4815826 L1.99971984,30.4815826 L1.99971984,28.7035009 L0,28.7035009 Z" id="路径-3" fill="#E0E0E0"></path>
+                                    <path d="M16.6257735,17.1345619 C16.6579245,17.1593487 16.6798975,17.1950407 16.6875502,17.2349094 L16.7355457,17.4849529 C16.7498041,17.5592356 16.7785535,17.6299826 16.8201525,17.693155 L17.1448791,18.1862859 L17.9160964,18.8449016 C17.9644779,18.8862191 17.9702044,18.9589346 17.9288868,19.0073161 C17.9069998,19.0329451 17.8749872,19.047704 17.8412843,19.047704 L17.455,19.0475824 L17.455,19.7725824 L19.3772,19.7728219 C19.4726348,19.7728219 19.55,19.8501871 19.55,19.9456219 L19.55,21.0502576 C19.55,21.1456924 19.4726348,21.2230576 19.3772,21.2230576 L9.9478,21.2230576 C9.8523652,21.2230576 9.775,21.1456924 9.775,21.0502576 L9.775,19.9456219 C9.775,19.8501871 9.8523652,19.7728219 9.9478,19.7728219 L11.869,19.7725824 L11.869,19.0475824 L11.4875678,19.047704 C11.4239446,19.047704 11.3723678,18.9961272 11.3723678,18.932504 C11.3723678,18.8984821 11.3874064,18.8662 11.4134523,18.8443115 L12.1964593,18.1862859 L12.5118934,17.6861937 C12.5488982,17.6275259 12.5750021,17.5626567 12.588948,17.4947098 L12.6422712,17.2349094 C12.6608915,17.1441877 12.7495308,17.085738 12.8402524,17.1043583 C12.8801066,17.1125383 12.9156277,17.1349284 12.9401972,17.1673569 L13.2660714,17.5974683 L16.0589286,17.5974683 L16.3925505,17.1647265 C16.4486236,17.091994 16.553041,17.0784889 16.6257735,17.1345619 Z" id="形状结合" fill="#9A9999"></path>
+                                    <polygon id="星形复制" fill="#9A9999" transform="translate(8.550764, 10.817897) rotate(35.000000) translate(-8.550764, -10.817897) " points="8.56385971 11.8585733 7.50565303 12.5370267 7.78348787 11.2555925 6.82852621 10.3882206 8.07083331 10.2939948 8.53884122 9.07947616 9.02879439 10.3026756 10.2730008 10.4194336 9.33350146 11.2696383 9.63445543 12.5563174"></polygon>
+                                    <polygon id="星形复制-2" fill="#9A9999" transform="translate(11.976609, 13.609272) rotate(-345.000000) translate(-11.976609, -13.609272) " points="11.9835773 14.6574534 10.9278507 15.3438742 11.2096321 14.0547669 10.2630744 13.1871003 11.4995435 13.0870734 11.9702653 11.8644051 12.4526639 13.0916923 13.6901436 13.2037084 12.7518132 14.0622406 13.045896 15.3541386"></polygon>
+                                    <polygon id="星形复制-3" fill="#9A9999" transform="translate(17.457915, 13.609272) rotate(-15.000000) translate(-17.457915, -13.609272) " points="17.4509465 14.6574534 16.3886278 15.3541386 16.6827106 14.0622406 15.7443802 13.2037084 16.98186 13.0916923 17.4642585 11.8644051 17.9349803 13.0870734 19.1714494 13.1871003 18.2248917 14.0547669 18.5066731 15.3438742"></polygon>
+                                    <polygon id="星形" fill="#9A9999" points="14.375 9.74197299 12.6851174 10.6944028 13.1445706 8.91707955 11.6407125 7.72839031 13.6145528 7.58237394 14.375 5.89529379 15.1354472 7.58237394 17.1092875 7.72839031 15.6054294 8.91707955 16.0648826 10.6944028"></polygon>
+                                    <polygon id="星形复制-4" fill="#9A9999" transform="translate(20.199236, 10.120086) rotate(-35.000000) translate(-20.199236, -10.120086) " points="20.1861403 11.160763 19.1155446 11.8585071 19.4164985 10.571828 18.4769992 9.72162335 19.7212056 9.6048653 20.2111588 8.38166588 20.6791667 9.59618449 21.9214738 9.69041034 20.9665121 10.5577822 21.244347 11.8392164"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="编组-4复制-2" transform="translate(541.000000, 20.000000)">
+                        <circle id="椭圆形" stroke="#E1251B" stroke-width="2" cx="28" cy="28" r="28"></circle>
+                        <text id="X" transform="translate(7.292893, 29.500000) rotate(90.000000) translate(-7.292893, -29.500000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="3.79289322" y="33.5">X</tspan>
+                        </text>
+                        <text id="X复制" transform="translate(10.500000, 39.000000) rotate(-124.000000) translate(-10.500000, -39.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="7" y="43">X</tspan>
+                        </text>
+                        <text id="有" transform="translate(10.000000, 18.000000) rotate(-45.000000) translate(-10.000000, -18.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="5" y="22">有</tspan>
+                        </text>
+                        <text id="限" transform="translate(21.000000, 9.000000) rotate(-20.000000) translate(-21.000000, -9.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="16" y="13">限</tspan>
+                        </text>
+                        <text id="责" transform="translate(34.000000, 9.000000) rotate(20.000000) translate(-34.000000, -9.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="29" y="13">责</tspan>
+                        </text>
+                        <text id="任" transform="translate(45.000000, 16.000000) rotate(45.000000) translate(-45.000000, -16.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="40" y="20">任</tspan>
+                        </text>
+                        <text id="公" transform="translate(48.292893, 29.000000) rotate(90.000000) translate(-48.292893, -29.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="43.2928932" y="33">公</tspan>
+                        </text>
+                        <text id="司" transform="translate(45.000000, 40.000000) rotate(115.000000) translate(-45.000000, -40.000000) " font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#E1251B">
+                            <tspan x="40" y="44">司</tspan>
+                        </text>
+                        <polygon id="星形" fill="#E1251B" points="28 32.5 22.7099327 35.2811529 23.7202457 29.3905765 19.4404914 25.2188471 25.3549664 24.3594235 28 19 30.6450336 24.3594235 36.5595086 25.2188471 32.2797543 29.3905765 33.2900673 35.2811529"></polygon>
+                    </g>
+                    <g id="icon/ok_big-copy-2" transform="translate(118.000000, 78.000000)" fill="#26A872">
+                        <path d="M19.2316252,10.5450264 L12.4512863,17.5018603 C12.271826,17.6859921 12.036896,17.7775 11.8019661,17.7775 C11.5670362,17.7775 11.3321063,17.6859921 11.1526459,17.5018603 L6.76837482,13.0034648 C6.41054173,12.6363171 6.41054173,12.0392838 6.76837482,11.6721361 C7.12729554,11.3038725 7.70809454,11.3038725 8.06592763,11.6721361 L11.8019661,15.5054253 L17.9340724,9.21369769 C18.2919055,8.8454341 18.8737921,8.8454341 19.2316252,9.21369769 C19.5894583,9.58084533 19.5894583,10.1778787 19.2316252,10.5450264 M13,0 C5.81966667,0 0,5.81966667 0,13 C0,20.17925 5.81966667,26 13,26 C20.17925,26 26,20.17925 26,13 C26,5.81966667 20.17925,0 13,0"></path>
+                    </g>
+                    <g id="icon/ok_big-copy-2" transform="translate(449.000000, 78.000000)" fill="#26A872">
+                        <path d="M19.2316252,10.5450264 L12.4512863,17.5018603 C12.271826,17.6859921 12.036896,17.7775 11.8019661,17.7775 C11.5670362,17.7775 11.3321063,17.6859921 11.1526459,17.5018603 L6.76837482,13.0034648 C6.41054173,12.6363171 6.41054173,12.0392838 6.76837482,11.6721361 C7.12729554,11.3038725 7.70809454,11.3038725 8.06592763,11.6721361 L11.8019661,15.5054253 L17.9340724,9.21369769 C18.2919055,8.8454341 18.8737921,8.8454341 19.2316252,9.21369769 C19.5894583,9.58084533 19.5894583,10.1778787 19.2316252,10.5450264 M13,0 C5.81966667,0 0,5.81966667 0,13 C0,20.17925 5.81966667,26 13,26 C20.17925,26 26,20.17925 26,13 C26,5.81966667 20.17925,0 13,0"></path>
+                    </g>
+                    <g id="icon/ok_big-copy-2" transform="translate(283.000000, 78.000000)" fill="#26A872">
+                        <path d="M19.2316252,10.5450264 L12.4512863,17.5018603 C12.271826,17.6859921 12.036896,17.7775 11.8019661,17.7775 C11.5670362,17.7775 11.3321063,17.6859921 11.1526459,17.5018603 L6.76837482,13.0034648 C6.41054173,12.6363171 6.41054173,12.0392838 6.76837482,11.6721361 C7.12729554,11.3038725 7.70809454,11.3038725 8.06592763,11.6721361 L11.8019661,15.5054253 L17.9340724,9.21369769 C18.2919055,8.8454341 18.8737921,8.8454341 19.2316252,9.21369769 C19.5894583,9.58084533 19.5894583,10.1778787 19.2316252,10.5450264 M13,0 C5.81966667,0 0,5.81966667 0,13 C0,20.17925 5.81966667,26 13,26 C20.17925,26 26,20.17925 26,13 C26,5.81966667 20.17925,0 13,0"></path>
+                    </g>
+                    <g id="icon/ok_big-copy-2" transform="translate(614.000000, 78.000000)" fill="#26A872">
+                        <path d="M19.2316252,10.5450264 L12.4512863,17.5018603 C12.271826,17.6859921 12.036896,17.7775 11.8019661,17.7775 C11.5670362,17.7775 11.3321063,17.6859921 11.1526459,17.5018603 L6.76837482,13.0034648 C6.41054173,12.6363171 6.41054173,12.0392838 6.76837482,11.6721361 C7.12729554,11.3038725 7.70809454,11.3038725 8.06592763,11.6721361 L11.8019661,15.5054253 L17.9340724,9.21369769 C18.2919055,8.8454341 18.8737921,8.8454341 19.2316252,9.21369769 C19.5894583,9.58084533 19.5894583,10.1778787 19.2316252,10.5450264 M13,0 C5.81966667,0 0,5.81966667 0,13 C0,20.17925 5.81966667,26 13,26 C20.17925,26 26,20.17925 26,13 C26,5.81966667 20.17925,0 13,0"></path>
+                    </g>
+                    <g id="编组-8复制" transform="translate(614.000000, 214.000000)">
+                        <path d="M0,13 C0,20.17925 5.81966667,26 13,26 C20.17925,26 26,20.17925 26,13 C26,5.81966667 20.17925,0 13,0 C5.81966667,0 0,5.81966667 0,13 Z" id="Path" fill="#E1251B"></path>
+                        <path d="M13,4.875 C13.4487314,4.875 13.8125,5.23876864 13.8125,5.6875 L13.812,12.187 L20.3125,12.1875 C20.7612314,12.1875 21.125,12.5512686 21.125,13 C21.125,13.4487314 20.7612314,13.8125 20.3125,13.8125 L13.812,13.812 L13.8125,20.3125 C13.8125,20.7612314 13.4487314,21.125 13,21.125 C12.5512686,21.125 12.1875,20.7612314 12.1875,20.3125 L12.187,13.812 L5.6875,13.8125 C5.23876864,13.8125 4.875,13.4487314 4.875,13 C4.875,12.5512686 5.23876864,12.1875 5.6875,12.1875 L12.187,12.187 L12.1875,5.6875 C12.1875,5.23876864 12.5512686,4.875 13,4.875 Z" id="形状结合" fill="#FFFFFF" transform="translate(13.000000, 13.000000) rotate(-45.000000) translate(-13.000000, -13.000000) "></path>
+                    </g>
+                    <g id="编组-8复制-2" transform="translate(449.000000, 214.000000)">
+                        <path d="M0,13 C0,20.17925 5.81966667,26 13,26 C20.17925,26 26,20.17925 26,13 C26,5.81966667 20.17925,0 13,0 C5.81966667,0 0,5.81966667 0,13 Z" id="Path" fill="#E1251B"></path>
+                        <path d="M13,4.875 C13.4487314,4.875 13.8125,5.23876864 13.8125,5.6875 L13.812,12.187 L20.3125,12.1875 C20.7612314,12.1875 21.125,12.5512686 21.125,13 C21.125,13.4487314 20.7612314,13.8125 20.3125,13.8125 L13.812,13.812 L13.8125,20.3125 C13.8125,20.7612314 13.4487314,21.125 13,21.125 C12.5512686,21.125 12.1875,20.7612314 12.1875,20.3125 L12.187,13.812 L5.6875,13.8125 C5.23876864,13.8125 4.875,13.4487314 4.875,13 C4.875,12.5512686 5.23876864,12.1875 5.6875,12.1875 L12.187,12.187 L12.1875,5.6875 C12.1875,5.23876864 12.5512686,4.875 13,4.875 Z" id="形状结合" fill="#FFFFFF" transform="translate(13.000000, 13.000000) rotate(-45.000000) translate(-13.000000, -13.000000) "></path>
+                    </g>
+                    <g id="编组-8复制-3" transform="translate(283.000000, 214.000000)">
+                        <path d="M0,13 C0,20.17925 5.81966667,26 13,26 C20.17925,26 26,20.17925 26,13 C26,5.81966667 20.17925,0 13,0 C5.81966667,0 0,5.81966667 0,13 Z" id="Path" fill="#E1251B"></path>
+                        <path d="M13,4.875 C13.4487314,4.875 13.8125,5.23876864 13.8125,5.6875 L13.812,12.187 L20.3125,12.1875 C20.7612314,12.1875 21.125,12.5512686 21.125,13 C21.125,13.4487314 20.7612314,13.8125 20.3125,13.8125 L13.812,13.812 L13.8125,20.3125 C13.8125,20.7612314 13.4487314,21.125 13,21.125 C12.5512686,21.125 12.1875,20.7612314 12.1875,20.3125 L12.187,13.812 L5.6875,13.8125 C5.23876864,13.8125 4.875,13.4487314 4.875,13 C4.875,12.5512686 5.23876864,12.1875 5.6875,12.1875 L12.187,12.187 L12.1875,5.6875 C12.1875,5.23876864 12.5512686,4.875 13,4.875 Z" id="形状结合" fill="#FFFFFF" transform="translate(13.000000, 13.000000) rotate(-45.000000) translate(-13.000000, -13.000000) "></path>
+                    </g>
+                    <g id="编组-8复制-4" transform="translate(118.000000, 214.000000)">
+                        <path d="M0,13 C0,20.17925 5.81966667,26 13,26 C20.17925,26 26,20.17925 26,13 C26,5.81966667 20.17925,0 13,0 C5.81966667,0 0,5.81966667 0,13 Z" id="Path" fill="#E1251B"></path>
+                        <path d="M13,4.875 C13.4487314,4.875 13.8125,5.23876864 13.8125,5.6875 L13.812,12.187 L20.3125,12.1875 C20.7612314,12.1875 21.125,12.5512686 21.125,13 C21.125,13.4487314 20.7612314,13.8125 20.3125,13.8125 L13.812,13.812 L13.8125,20.3125 C13.8125,20.7612314 13.4487314,21.125 13,21.125 C12.5512686,21.125 12.1875,20.7612314 12.1875,20.3125 L12.187,13.812 L5.6875,13.8125 C5.23876864,13.8125 4.875,13.4487314 4.875,13 C4.875,12.5512686 5.23876864,12.1875 5.6875,12.1875 L12.187,12.187 L12.1875,5.6875 C12.1875,5.23876864 12.5512686,4.875 13,4.875 Z" id="形状结合" fill="#FFFFFF" transform="translate(13.000000, 13.000000) rotate(-45.000000) translate(-13.000000, -13.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

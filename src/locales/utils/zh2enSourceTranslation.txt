@@ -1,0 +1,939 @@
+国际站公网文案整理
+Text of International Public Website 
+公网-前台
+Public Website - Foreground
+首页
+Home
+京东物流 开放平台
+JD Logistics Open Platform
+登录
+Login
+一站式物流服务接入平台
+One-stop Logistics Service Access Platform
+构建客户与京东物流之间的技术生态，助力企业实现物流供应链一体化
+A technological ecology formed between customers and JD Logistics to bring enterprises an integrated logistics supply chain
+ISV 
+ISV
+集成物流能力进行软件产品售卖
+Integrated logistics capabilities for sales of software products 
+签约商家
+Contracted merchants
+对接物流服务API 
+Connected to Logistics Service API
+合作伙伴
+Partners
+提供平台技术服务或其他合作
+Providing platform technology services or other cooperation
+定制
+Customized
+商家可灵活定制符合业务场景的个性化逻辑，打造极致的用户体验。
+The merchant can flexibly customize personalized logic that conforms to the business scenario to enjoy the ultimate user experience.
+链接
+Links
+基于平台开放集成能力，支持企业高效快速接入物流业务，保障业务导入效率和体验。
+Based on the platform’s open integration capability, it supports enterprises to access the logistics services efficiently and quickly, and guarantee the service introduction efficiency and experience.
+生态
+Ecology
+聚合社会化资源和技术，促进一体化供应链生态化。
+Convergence of socialized resources and technologies to promote the ecology of integrated supply chains.
+API方案详情
+API Solution Details
+查看全部
+View it all
+行业解决方案
+Industry Solutions
+支持业务更快落地
+Support faster delivery of services
+方案详情
+Solution details
+快速、稳定、全面的平台服务
+Rapid, stable and comprehensive platform services
+丰富开放的API
+Diversified and open APIs
+开放1000+业务接口，涵盖下单、账号、配送等全方位的能力
+1000 + service interfaces are opened, covering the full range of capabilities such as order placement, account number and delivery
+一体化接入服务
+Integrated Access Services
+ISV、自研商家、合作伙伴自主化接入物流服务
+Autonomous access to logistics services for ISV, self-developed merchants and partners 
+集成开发环境
+Integrated development environment
+提供沙箱和本地的代码编写、分析、编译、调试于一体的软件开发环境
+A software development environment that combines sandboxes and native code writing, analysis, compilation and debugging
+多方协同运行
+Multi-party collaboration
+服务提供方、开发方DevOps过程完全分离
+Complete separation of service provider and developer DevOps processes 
+运营监控体系
+Operational monitoring system
+提供数据看板、监控告警、日志查询等运营工具，事前预警事后分析
+Provide the operational tools such as data board, monitoring alarm and log inquiry, as well as pre-warning and post-analysis
+多语言运行容器
+Multilingual-run container
+Java、PHP、.NET等语言编写自定义逻辑
+Custom logic of writing in Java, PHP, .NET, and other languages
+全流程服务
+Full-process services
+为商家提供完善的文档以及全流程咨询服务，快速响应业务需求
+Provide sound documentation and full-process consulting services for merchants and respond quickly to their business needs
+服务稳定可靠
+Stable and reliable services
+随时获取应用运行态势，24小时全面保障应用正常服务
+Get informed of the operation status of the application at any time, and fully guarantee its normal service 24 hours a day
+新手入门
+How to Start
+名词解释
+Terms and definitions
+接入指南
+Access Guide
+服务支持
+Service Support
+隐私协议
+Privacy Agreement
+开发规范
+Development Norms
+商务合作
+Business Cooperation
+成为合作伙伴
+Partnership
+相关平台
+Platforms
+京东国际
+JD International
+京东物流
+JD Logistics
+联系我们
+Contact Us
+免费咨询电话：
+Free consulting tel.:
+免费咨询邮箱：
+Free consulting email:
+服务时间：周一至周五 9:00-18:00
+Service hours: 9: 00-18: 00 Monday to Friday
+ISV
+ISV
+基于开放平台能力
+Based on the open platform capabilities
+对接ISV多样化需求
+Meet the diverse needs of ISV
+业务定制开发能力
+Business customized development capability
+开放接口持续更新中，为ISV提供坚实的技术支持
+Open interfaces are constantly updated to provide solid technical support for ISV
+强大丰富的技术能力
+Strong and rich technical capabilities
+商家可基于标准产品进行个性化开发，满足多样业务诉求
+Merchants can have their products customized based on standard products to meet diverse business needs
+全面的服务支持
+Full service support
+完善的运营文档，以及技术支持人员全程在线支持
+Well-established operational documentation and full online support from technical staff
+入驻流程
+Entry Process
+入驻认证
+Entry Accreditation
+填写表单注册成为物流开放平台的开发者
+Fill in the form to register as an open platform developer
+创建应用
+Create an application
+完成入驻后，选择应用类型进行创建
+Select the application type to create after entry
+订阅方案
+Subscription
+订阅要使用的API或者解决方案
+Subscribe to the API or solution to be used
+开发测试
+Development testing
+根据配套的使用手册、API文档进行开发
+Develop according to the supporting user manual and API documents
+发布上线
+Release and go live
+完成开发后，发布应用即可完成对接全流程
+After completion of development, release the application to complete the whole connecting process
+丰富易用的API
+Rich and easy-to-use APIs
+提升ISV业务能力
+Enhance ISV business capabilities
+ISV可灵活定制符合业务场景的个性化逻辑，打造极致的用户体验
+ISV can flexibly customize the personalized logic that conforms to the business scenario and create ultimate user experience
+查看更多
+View more
+自研商家
+Self-developed Merchants
+全面开放物流能力，满足商家多种场景需求
+Fully opened logistics capabilities to meet the needs of merchants in multiple scenarios
+商家入驻流程
+Merchant entry process
+立即入驻
+Immediate entry
+聚合物流能力
+Aggregated logistics capability
+提供商家多行业解决方案
+Multi-industry solutions for merchants
+平台助手
+Platform Assistant
+开放平台技术问题，技术工程师为您解答
+Open platform technical questions will be answered by technical engineers
+API测试工具
+API Test Tools
+帮助您快速了解物流开放平台API的调用原理，方便您接入过程中进行接口调试
+It helps you quickly understand the invocation principle of the Logistics Open Platform API and facilitate interface debugging during your access
+签名工具
+Signature tools
+开发者可以使用此工具，快速验证签名的有效性
+Developers can use the tools to quickly verify the validity of signature
+完善的技术支持，让开发更加高效
+Well-developed technical support brings higher efficiency to development 
+合作伙伴
+Partners
+物流开放平台合作伙伴计划
+Partner Program for Logistics Open Platform 
+携手行业优秀伙伴，共创技术生态为客户创造更大价值
+Join hands with excellent partners in the industry to create technological ecology and create greater value for customers
+API服务
+API Services
+您可以将自研的API服务或软件工具注册到平台，提供给京东物流的客户使用，在平台审核通过后会对您的API服务进行推广。
+You can register your self-developed API services or software tools on the platform and provide them to JD customers for use. Upon approval by the platform, your API services will be promoted.
+IT技术服务
+IT technical services
+您可以提供您的IT技术资源，在获得开放平台伙伴认证后，即可帮助没有研发团队的商家进行系统对接。
+You can provide your IT technology resources to help the merchants who do not have a R&D team to connect to systems after you are certified as an open platform partner.
+物流服务
+Logistics Services
+作为京东物流的供应商，提供运输运力、洗护维修、清关转运等服务。
+As a supplier of JD Logistics, it provides transport, cleaning and maintenance, customs clearance and transfer services.
+伙伴申请流程
+Partner Application
+注册京东账号
+Registration of JD account
+选择伙伴类型
+Select partner type
+完成伙伴资质认证
+Complete partner qualification
+成为京东物流合作伙伴
+Become a partner of JD Logistics 
+我们为您准备了
+We will provide you with
+附能培训
+Enabling training
+专业技术
+Professional skills
+商机共享
+Sharing of business opportunities 
+灵活安全
+Flexibility and safety
+提供伙伴专属的技术培训、技术认证，快速提升伙伴的云产品应用和技术服务能力。
+Partner-specific technical training and certification to rapidly upgrade the partner's cloud product application and technical service capabilities.
+物流开放平台专业架构师团队支撑合作伙伴构建解决方案，在行业内获得领先优势。
+A team of professional architects on the logistics open platform supports partners to develop solutions and gain a leading edge in the industry.
+共同为商家提供技术服务，并联合开展市场营销活动、技术沙龙分享会、研讨会、行业展会等。
+Joint provision of technical services to merchants and joint marketing activities, technical salon sharing sessions, seminars, industry exhibitions, etc.
+提供更加安全策略来保障安全，并且通过灵活而精细的方式来开放多样化的服务能力。
+More secure policies to safeguard security and opening up diverse service capabilities in a flexible and refined way.
+能力中心
+Capability Center
+能力中心
+Competence Center
+物流能力 开箱即用
+Logistics capability out of the box
+接入调试
+Access commissioning
+API调用规范
+API call specification
+平台错误码
+Platform error code
+自助诊断
+Self-help diagnosis
+API测试工具
+API test tools
+签名工具
+Signature tools
+咨询提问
+Consulting and inquiry
+API使用
+API usage
+常见问题
+FAQs
+方案详情
+Solution details
+立即订阅
+Subscribe now
+查看文档
+View document
+接口列表
+Interface list
+接口
+Interface
+接口名称
+Interface name
+描述
+Description
+SDK列表
+SDK list
+如果您使用的JAVA或PHP语言，您需要同时下载基础SDK和业务SDK放到您的工程文件中。SDK使用说明见 SDK使用说明
+If you are using JAVA or PHP, you need to download both the basic SDK and business SDK into your engineering file. Please refer to the SDK operating instructions
+基础SDK名称
+Basic SDK name
+版本号
+Version No.
+语言
+Language
+SDK描述
+SDK Description
+业务SDK名称
+Business SDK name
+接入流程
+Access process
+接入指南
+Access guide
+业务介绍
+Business introduction
+业务说明
+Business description
+平台使用流程
+Platform use process
+授权介绍
+Authorization introduction 
+API使用说明
+API instructions
+通过SDK调用API（开发者→京东物流）
+Call API via SDK (Developer → JD Logistics)
+非SDK调用API（开发者→京东物流）
+Call API via non-SDK (Developer → JD Logistics)
+回传API调用说明（京东物流→开发者）
+Return API call description (JD Logistics → Developer)
+平台错误码
+Platform error code
+消息使用说明
+Message usage instructions
+websocket方式接收消息
+Receive messages via websocket
+HTTP方式接收消息
+Receive messages via HTTP
+开发说明
+Development instructions
+联调指南
+Guidelines for joint call
+常见问题
+FAQs
+API文档
+API Documentation
+列表展示了当前开放业务下提供的接口清单，使用说明请查看【接入指南】中的接口相关文档
+The list shows the interface list provided under current open business. For the instructions, please check the interface-related documents in the Access Guide
+调用方向
+Call Direction 
+请求地址
+Request address
+环境
+Environment
+线上环境
+Online environment
+UAT环境
+UAT environment
+域名（SERVER_URL）
+Domain Name (SERVER_URL)
+调用路径（path）
+Call path (path)
+请求参数
+Request Parameters
+名称
+Name
+类型
+Type
+是否必选
+Required or not
+示例值
+Sample values
+描述
+Description
+响应参数
+Response parameters
+请求报文示例
+Request message example
+复制代码
+Copy code
+响应报文示例
+Response message example
+错误码解释
+Error code interpretation
+错误码
+Error code
+错误消息
+Error message
+系统错误码解释请点击查看
+To view the system error code interpretation, please click here
+消息文档
+Message document
+列表展示了当前开放业务下提供的消息推送清单，使用说明请查看【接入指南】中的消息相关文档
+The list shows the messages push list provided under current open business. For instructions, check the message-related document in [Access Guide]
+消息属性
+Message property
+消息示例
+Message sample
+常用开发工具
+Common development tools
+API测试工具
+API testing tools
+API工具使用说明请点击查看
+Please click here to view the API tools instructions
+当前环境：生产环境，请谨慎操作！！！尤其是创建、更新类接口
+Current environment: Production environment, please operate carefully!!! Pay particular attention to the creation and update interfaces
+切为沙箱环境
+Switch to sandbox environment
+接口名称
+Interface name
+调用路径
+Call path
+接口所属开放业务
+Open business under the interface
+应用类别
+App type
+请到【控制台-应用管理-概述】查看
+Please go to [Console-App Management-Overview] to check it
+用户授权
+User authorization
+点此查看使用说明
+Click here to check the instructions
+获取refreshToken
+Obtain refreshToken
+参数名称
+Parameter name
+参数
+Parameters
+提交测试
+Submit testing
+请求参数
+Request parameters
+返回值
+Return value
+签名工具
+Signature tools
+方便开发者快速验证签名的正确性。使用说明请点此查看
+Facilitating developers to quickly verify the correctness of signature. Please click here to check the operating instructions
+输入字段
+Input field
+请输入下列签名要素的字段值
+Please enter the field value for the following signature element
+用户授权码
+User authorization code
+如何获取？
+How to obtain it?
+请到【控制台-应用管理-应用详情-概览】查看
+Please go to [Console-App Management-App Details-Overview] 
+调用路径，请到【接口文档-请求地址】查看
+For the call path, please go to [Interface Document-Request Address] to check it
+时区为GMT+8，格式示例：2020-01-01 12:00:00
+The time zone is GMT + 8, format example: 2020-01-01 12: 00: 00
+业务参数，请到【接口文档-请求报文示例】查看
+For business parameters, please go to [Interface Document-Request Message Examples] to check it
+计算签名
+Computing signature
+输入URL
+Enter URL
+请求URL
+Request URL
+请输入发送的HTTP请求URL
+Please enter the HTTP sent to request URL
+请求body
+Request body
+请输入HTTP请求的body
+Please enter the body requested by the HTTP 
+到【控制台-应用管理-应用详情-概览】查看
+Go to [Console-App Management-App Details-Overview] to check it
+解决方案
+Solutions
+解决方案
+Solutions
+行业方案
+Industry solutions
+场景方案
+Scenario solutions
+立即接入
+Access now
+查看文档
+View document
+解决痛点
+Resolve pain points
+关联接口及服务
+Associated interfaces and services
+文档
+Documents
+文档
+Documents
+新手指南
+Get-to-start guide
+开发支持
+Development support
+常见问题
+FAQs
+API相关问题
+API-related questions
+授权相关问题
+Authorization-related questions
+订购相关问题
+Subscription-related questions
+入驻相关问题
+Entry-related questions
+其他问题
+Other questions
+联系方式
+Contact information
+物流开放平台技术支持
+Logistics Open Platform Technical Support
+用户调研
+User surveys
+用户调研
+User surveys
+登录
+Login
+登录
+Login
+退出登录
+Exit 
+公网-控制台
+Public website-Console
+控制台
+Console
+开发管理
+Development management
+开发管理
+Development management
+应用管理
+App Management
+搜索应用名称,APPKey
+Search app name, APPKey
+查询
+Inquiry
+创建应用
+Create app
+选择应用类型
+Select app type
+应用类型
+App type
+ISV应用
+ISV app
+自研商家应用
+Self-developed merchant app
+合作伙伴应用
+Partner app
+描述
+Description
+通过【ISV资质】认证后，可创建此类应用
+Such app can be created upon certification of [ISV Qualification] 
+自研商家资质
+Self-developed merchant qualifications 
+合作伙伴资质
+Partner qualifications
+操作
+Operation
+请手动输入应用名称来新建应用
+Please enter the app name manually to create a new app
+应用名称
+App name
+应用描述
+App description
+2-20个字符，不能包含特殊字符 [^`~@#$^&|\\<>/~#&]
+2-20 characters, which cannot contain special characters [^`~@#$^&|\\<>/~#&]
+描述应用的使用对象，功能等信息，10-200个字符，不能包含特殊字符 [^`~@#$^|\\<>/~#]
+Describe the use object, function and other information of the app, 10-200 characters, which cannot contain special characters [^`~@#$^|\\<>/~#]
+上一步
+Previous
+确定
+Confirm
+完成
+Complete
+注册成功
+Registered
+1s后自动跳转到对接方案
+Automatic jump to the connecting solution after 1 s
+对接方案
+Connecting solution
+序号
+SN.
+应用名称
+App name 
+应用类型
+App type
+状态
+Status
+运行中
+In operation
+创建人
+Creator
+创建时间
+Creation time
+操作
+Operation
+管理
+Management
+应用详情
+App details
+创建于
+Created on
+概览
+Overview
+应用中文名称
+App Chinese name
+应用描述
+App description
+应用类别
+App type
+查看
+View
+隐藏
+Hide
+RSA秘钥ID
+RSA secret key ID
+使用物流开放平台资源（API、SDK等）的过程中，可能要求应用以RSA加密传输的形式使用。物流开放平台自动为每个应用生成了RSA秘钥对，您可以查看RSA秘钥ID和公钥，加密数据。
+App may be required to be used in the form of RSA encrypted transmissions during using the Logistics Open Platform resources (API, SDK, etc.). The platform automatically generates RSA key pairs for each app, and you can view the RSA key ID and public key to encrypt data. 
+RSA公钥
+RSA Public Key
+在使用物流开放平台资源（API、SDK等）的过程中，可能要求应用以RSA加密传输的形式使用。物流开放平台自动为每个应用生成了RSA秘钥对，您可以查看RSA秘钥ID和公钥，加密数据。
+App may be required to be used in the form of RSA encrypted transmissions when using the Logistics Open Platform resources (API, SDK, etc.). The platform automatically generates RSA key pairs for each app, and you can view the RSA key ID and public key to encrypt data.
+请输入当前APP应用中文名称,2-20个字符
+Please enter the Chinese name of the current app in 2-20 characters
+请输入应用中文名称
+Please enter the Chinese name of the app
+请描述当前APP应用,10-200个字符.
+Please describe the current app in 10-200 characters
+请输入应用描述信息
+Please enter the app description information
+客户分组
+Customer grouping
+您可对不同集群的客户进行分组管理，每个消息将按照不同分组的回调地址进行推送
+You can group customers in different clusters, and each message will be pushed according to the callback address of different group
+请输入客户分组名称
+Please enter the customer group name
+分组名称
+Group name
+描述
+Description
+更新人
+Updated by
+更新时间
+Updated on 
+操作
+Operate
+编辑
+Edit
+创建分组
+Create group
+填写基本信息
+Enter basic information
+请填写客户分组的基本信息
+Please fill in the basic information of customer group
+客户分组名称
+Customer group name
+2-30个字符，由字母、下划线组成
+2-30 characters, which consist of letters and underlines
+客户分组描述
+Customer group description
+10-100个字符，描述客户分组使用场景
+Describe the customer group usage scenario in 10-100 characters
+请添加客户pin信息
+Please add customer pin information
+最大支持上传100条客户pin信息
+The user can upload a maximum of 100 pieces of customer pin information
+多个pin请用英文逗号分隔，例如：pin1,pin2,pin3
+Please separate multiple pins with English commas, for example: pin1, pin2, pin3
+确认创建
+Confirm creation
+完成
+Complete
+创建成功
+Created successfully
+返回客户分组列表
+Return the customer group list 
+继续创建客户分组
+Continue creating customer group
+对接方案
+Connecting solution
+订阅新的对接方案
+Subscribe to new connecting solution
+选择对接方案
+Choose connecting solution
+业务介绍
+Business description
+操作
+Operate
+申请使用
+Apply for use
+填写申请理由
+Fill in the reason for the application
+对接方案名称
+Name of the connecting solution
+申请应用名称
+Name of the app applied
+申请理由
+Reasons for application
+请输入10-200个字符
+Please enter 10-200 characters
+订阅成功
+Subscription succeeded
+当前订阅正在审批中,2s后自动跳转到对接方案列表
+The current subscription is being approved, and will automatically jump to the connecting solution list after 2s
+应用详情
+App details
+名称
+Name
+编码
+Coding
+申请时间
+Applied on
+所属分类
+Group
+状态
+Status
+审批中
+Under approval
+订阅失败
+Subscription failed
+订阅成功
+Subscription succeeded
+上线状态
+Go-live status
+待上线
+Waiting to go live
+已上线
+Went live
+订阅成功
+Subscription succeeded
+【待上线】状态下的接口调用数量会受到限制，方案功能测试无误后，请立即发布上线，避免影响业务使用。
+The number of interface calls under [Waiting to go live] status will be limited. After the solution’s function test is confirmed, please immediately release it and make it go live to avoid affecting the use for business.
+操作
+Operate
+配置
+Configure
+列表展示了当前对接方案下提供的调用方向为“京东物流—>开发者”的接口清单，您可根据自己需要进行订阅，使用说明请查看【 接入指南 】中的接口相关文档
+The list shows the interface list provided under the current connecting solution with the call direction of "JD Logistics - > Developer." You can subscribe according to your needs. For usage instructions, please refer to the interface-related document in [Access Guide]
+审核中
+Under review
+已订阅
+Subscribed
+取消订阅
+Unsubscribe
+回调地址
+Callback address
+列表展示了当前对接方案提供的消息，由京东物流推送给开发者，您可根据自己需要进行订阅，使用说明请查看【 接入指南 】中的消息相关文档
+The list shows the information provided by the current connecting solution, which is pushed to the developer by JD Logistics. You can subscribe according to your own needs. For usage instructions, please refer to the message-related document in [Access Guide]
+请选择消息状态
+Please select the message status
+已订阅
+Subscribed
+未订阅
+Unsubscribed
+请输入消息中文名称
+Please enter the Chinese name for the message
+接收方式
+Receiving method  
+更新人
+Updated by
+更新时间
+Updated on
+消息接收方式
+Message receiving method
+消息回调地址
+Message callback address
+对接文档
+Connecting document
+上线
+Go live
+上线后方案切换为生产环境流控，是否要上线对接方案？
+The solution will be switched to production environment flow control after going live, are you sure to go live for connecting solution?
+7日内该应用下的此对接方案没有调用量，无法上线
+This connecting solution under this app has no call volume within 7 days, and cannot go live
+暂无数据
+Data not available
+待评价
+To be rated
+服务评价
+Service rating
+为了提升我们的服务质量，诚邀您对接入体验进行评价，您的反馈是我们进步的动力👍
+In order to improve our services, we invite you to rate our access experience, and your feedback will drive us move forward👍
+文档描述准确、接口能满足业务场景
+Document description is accurate and interfaces can meet business scenarios
+平台功能操作便捷，能满足使用需求
+The platform functions are easy to operate and can meet the use requirements
+客服答疑/解决问题的体验
+Customer service replying/Problem solving experience
+提交
+Submit
+日志工具
+Log tool
+运行环境
+Operating environment
+沙箱环境
+Sandbox environment
+生产环境
+Production environment
+API的URI
+URI of API
+入参
+Incoming parameters 
+请输入关键词
+Please enter key words
+出参
+Output parameters
+状态码
+Status code
+请输入错误码
+Please enter the error code
+时间范围
+Time range
+15分钟
+15 min
+1小时
+1 hour
+1天
+1 day
+5天
+5 days
+7天
+7 days
+展开
+Unfold
+收起
+Fold
+响应状态
+Response status
+成功
+Succeeded
+失败
+Failed
+京东PIN
+JD PIN
+请输入京东PIN
+Please enter a JD PIN
+请求状态
+Request status
+状态码
+Status code
+异常信息
+Exception information
+请求开始时间
+Request start time
+请求耗时
+Request duration
+操作
+Operate
+日志详情
+Log details
+请求方法
+Request method 
+请求报文
+Request message
+响应报文
+Response message
+个人中心
+Personal center
+个人中心
+Personal center
+基本信息
+Basic information
+基本信息
+Basic information
+个人基本信息
+Basic personal information
+账号
+Account number
+姓名
+Name
+手机号
+Mobile number
+更改
+Change
+角色
+Role
+普通用户
+Regular user
+企业信息
+Corporate information
+地区
+Region
+企业名称
+Enterprise name
+法人机构标识
+Corporate identity
+联系人姓名
+Contact name
+联系人邮箱
+Contact Email
+联系人手机号
+Contact mobile number
+成员管理
+Member management
+角色
+Roles
+账号
+Account number
+姓名
+Name
+手机号
+Mobile number
+创建时间
+Creation time
+操作
+Operate
+删除
+Delete
+删除用户后，该用户无法再查看此团队的相关信息，是是否确认删除？
+After deleting the user, the user can no longer view the relevant information of the team. Are you sure to delete it?
+添加成员
+Add member
+邮箱
+Mailbox
+资质管理
+Qualification management
+资质管理
+Qualification management
+未认证
+Not certified
+已认证
+Certified
+去认证
+To certify
+ISV(独立软件开发商)
+ISV (Independent software developer)
+接入平台提供的快递、快运、面单等物流能力，为客户提供系统服务。
+Connect to the express, delivery, express sheet and other logistics capabilities of the platform to provide system services for customers.
+需要提供完整的企业信息。
+Complete enterprise information is necessary
+自研商家
+Self-developed merchants
+自行研发软件，接入平台提供的快递、快运、面单等物流能力，实现自己的业务服务。
+Independently-developed software enables connecting with the logistics capabilities of the platform, such as express, delivery and express sheet, to deliver their own business services.
+需要提供企业基本信息及京东物流的客户月结编码。
+Basic enterprise information and the JD Logistics monthly settlement code are necessary
+合作伙伴
+Partners
+与京东物流有合作关系的企业。
+Enterprises that have partnerships with JD Logistics.
+提交成功 克服会根据您提交的联系方式与您联系
+Submitted successfully, and our customer service will contact you via the contact information your submitted
+56S后 将会自动跳转至资质管理界面
+After 56S, the system will automatically jump to the qualification management interface
+消息中心
+Message Center
+消息中心
+Message center
+消息接收
+Message reception
+消息接收
+Message reception
+平台公共
+Public platform 
+搜索标题
+Search title
+消息标题
+Message title
+发布时间
+Release time 
+是否阅读
+Whether to read
+已读
+Read
+未读
+Not read
+操作
+Operate
+

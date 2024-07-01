@@ -1,0 +1,20 @@
+$logoWidth: 132px;
+$logoHeight: 27px;
+$navHeight: 60px;
+
+//物流开放平台颜色码统一规范
+$initColor: #3c6ef0; //  初始化
+$updateColor: #ea7308; //  更新中||编辑中||审批中||待上线||待下线
+$normalColor: #26a872; //  已发布||运行中||正常||审核通过
+$deadColor: #666666; //  死亡||已删除||已下线
+$unknownColor: #e1251b; //  未知||审核未通过||被驳回
+
+:export {
+  logoWidth: $logoWidth;
+  logoHeight: $logoHeight;
+  navHeight: $navHeight;
+  initColor: $initColor;
+  updateColor: $updateColor;
+  deadColor: $deadColor;
+  unknownColor: $unknownColor;
+}

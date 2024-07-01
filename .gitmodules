@@ -1,0 +1,3 @@
+[submodule "applications/lcp_web_upgrade"]
+	path = applications/lcp_web_upgrade
+	url = git@coding.jd.com:lcp-saas/lcp_web_upgrade.git
